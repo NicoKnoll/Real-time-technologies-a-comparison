@@ -1,0 +1,14 @@
+{
+  "name": "real-time-technologies",
+  "version": "1.0.0",
+  "description": "demo for presentation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico Knoll",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
